@@ -1,0 +1,44 @@
+{
+  "contests": [
+    {
+      "id": 1,
+      "categoryName": "Business/Company",
+      "contestName": "Cognitive Building Bricks"
+    },
+    {
+      "id": 2,
+      "categoryName": "Business/Company",
+      "contestName": "Cognitive Building Bricks"
+    },
+    {
+      "id": 3,
+      "categoryName": "Business/Company",
+      "contestName": "Cognitive Building Bricks"
+    },
+    {
+      "id": 4,
+      "categoryName": "Business/Company",
+      "contestName": "Cognitive Building Bricks"
+    },
+    {
+      "id": 5,
+      "categoryName": "Business/Company",
+      "contestName": "Cognitive Building Bricks"
+    },
+    {
+      "id": 6,
+      "categoryName": "Business/Company",
+      "contestName": "Cognitive Building Bricks"
+    },
+    {
+      "id": 7,
+      "categoryName": "Business/Company",
+      "contestName": "Cognitive Building Bricks"
+    },
+    {
+      "id": 8,
+      "categoryName": "Business/Company",
+      "contestName": "Cognitive Building Bricks"
+    }
+  ]
+}
